@@ -1,0 +1,9 @@
+python 3.1
+How to use Virtual environment for .py files
+step 1- Create a new folder at your desired place
+step 2- Open in VS Code
+step 3- Create a .py file.
+step 4- Open terminal of VS and open folder of the .py file
+step 5- CMD-  python3.1 -m venv "name_of_VE"
+step 6- Blue bar on VS written as Python.11.64-bit
+step 7- U will see the Interpreter path then you will go to the the "name_of_VE" folder and select bin go to python3 and select the interpriter, new VS window will pop up.
